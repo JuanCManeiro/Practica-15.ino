@@ -92,3 +92,6 @@ void loop()
     }
   }
 }
+/* neste caso tampouco apaga o led dependente do pin 12 cando non hai que regar
+desconecta o rego pero o led segue aceso, cousa que non sucede se non pulso nada 
+e deixo a simulacion correr na etapa de non fai falla regar*/
